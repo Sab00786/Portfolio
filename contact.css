@@ -1,0 +1,10 @@
+.contact-cont{
+    width: 70vw;
+    /* background-color: red; */
+    margin: auto;
+    margin-top: 10vh;
+}
+
+.contact-cont > p{
+    margin-bottom: 30px;
+}

@@ -1,0 +1,58 @@
+.resume-heading{
+    width: 70vw;
+    margin: auto;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+.work-exp-cont{
+    width: 70vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.work-exp-cont > h2{
+    width: 50%;
+}
+
+.work-exp-right-cont{
+    width: 50%;
+}
+.work-exp-right-cont  li{
+    font-size: 1.2rem;
+    
+}
+.work-exp-right-cont ul{
+    position: relative;
+    left: 150px;
+}
+.work-exp-right-cont > .exp-cont{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+
+.work-exp-right-cont > .exp-cont > .exp-time{
+    min-width: fit-content; 
+    margin-right: 30px;
+    font-weight: lighter;
+}
+.work-exp-right-cont > .exp-cont > div >.exp-title {
+    font-size: 1rem;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.work-exp-right-cont > .exp-cont > div >.exp-description{
+    font-weight: 300;
+}
+.education-cont{
+    width: 70vw;
+    margin: auto;
+}
+
+.skills-cont{
+    width: 40vw;
+    margin: auto;
+}
+

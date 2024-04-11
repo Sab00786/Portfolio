@@ -1,0 +1,34 @@
+.projects-heading{
+    width: 70vw;
+    margin: auto;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+.project-cont{
+    width: 70vw;
+    /* background-color: blue; */
+    display: flex;
+    margin: auto;
+    margin-bottom: 15vh;
+}
+
+.project-cont > .left-cont{
+    width: 60%;
+
+}
+.project-cont > .left-cont > .project-title{
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+} 
+.project-cont > .left-cont > .project-desc{
+    width:70%;
+    font-weight: 300;
+}
+.project-cont > .right-cont{
+    width: 40%;
+}
+
+.project-cont > .right-cont >img{
+    width: 100%;
+}
